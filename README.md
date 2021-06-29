@@ -1,4 +1,6 @@
 # Music Genre Classification
+YTÜ Bilgisayar Projesi dersi için yapılmış Akustik Özellikler Kullanarak Müzik Türü Sınıflandırma Projesi
+
 Kullanılan veri setinin linki:
 https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification
 
