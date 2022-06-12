@@ -14,3 +14,5 @@ librosa, numpy, pandas, pathlib, scipy, sklearn, tqdm, matplotlib, Ipython, stat
 Kodların düzgünce çalışması için, veri seti "data_gtzan" ismiyle, kod dosyalarının bulunduğu klasöre konulmalı.
 Dosyalarda ayrı ayrı işlemler yapıldığı ve özellik çıkarımı sonrası excel dosyaları 
 oluştuğu için, en önce "feature_extraction" dosyası çalıştırılmalıdır.
+
+Proje ve deneylerin detaylı açıklamaları Makale ve Rapor dosyalarında bulunmaktadır.
